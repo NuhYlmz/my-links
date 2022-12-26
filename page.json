@@ -1,0 +1,26 @@
+{
+  "name": "Nuh Yılmaz Şentürk",
+  "description": "Full Stack Developer @Bordo.io",
+  "image_url": "https://avatars.githubusercontent.com/u/35450001?v=4",
+  "links": [{
+      "title": "Linkedin",
+      "url": "https://www.linkedin.com/in/nuh-yilmaz-senturk/",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/NuhYlmz",
+      "icon": "github"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/nuhylmz61/",
+      "icon": "instagram"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/NuhYlmzSntrk",
+      "icon": "twitter"
+    }
+  ]
+}
